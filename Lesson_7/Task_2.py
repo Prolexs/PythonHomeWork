@@ -5,8 +5,6 @@ def print_operation_table(operation, num_rows=6, num_columns=6):
             print(f'{result:5}', end=' ')
         print()
 
-# Пример использования
-
 # Функция для вычисления произведения
 def multiply(x, y):
     return x * y
